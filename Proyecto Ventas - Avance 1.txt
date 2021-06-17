@@ -1,0 +1,25 @@
+Estructura de Aplicacion Web
+-----------------------------
+Front End --> Diseño --> Bootstrap
+Back End --> Programacion -->Asp.net - C#
+
+--------------------------------------------------------
+*Github --> Versionar proyectos --> Distantas versiones
+---------------------------------------------------------
+*Creacion del Proyecto --Visual Studio --Capas
+Proyectos en internet --> www.sistemaventas.com
+dominio --> sistemaventas.com
+com.sistemaventas.bo -->entidades
+com.sistemaventas.bal -->negocios
+com.sistemaventas.dal -->datos
+com.sistemaventas.ui -->presentacion
+
+--Capa de Entidades --> Clases --> metodos get y set
+--Capa de Negocio --> Clases --> puente entre la Capa de presentacion y la Capa de Datos
+--Capa de Datos --> Programacion correspondienta a la manipulacion de la base de datos
+--Capa de Presentacion --> formularios web Asp.net
+---------------------------------------------------------
+*Revisar la BD
+*Procedimientos
+
+
